@@ -12,7 +12,7 @@
 ## Contact Me :email:
 
 [![Email](https://img.shields.io/badge/Gmail-rafaelvelaz1416@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaelvelaz1416@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RafaelVelazquez-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rafavelazqu3z/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Velazquez-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rafavelazqu3z/)
 
 
 Thanks for visiting my profile! :smile:
